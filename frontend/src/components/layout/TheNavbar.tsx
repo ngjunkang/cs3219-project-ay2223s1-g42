@@ -18,6 +18,7 @@ type NavItem = {
 
 const LINKS = [
   { label: "dashboard", href: "/" },
+  { label: "questions", href: "/questions" },
   {
     label: "settings",
     href: "/user/settings",
