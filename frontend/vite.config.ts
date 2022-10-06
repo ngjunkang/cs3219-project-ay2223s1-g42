@@ -46,5 +46,8 @@ export default defineConfig((configEnv) => {
     build: {
       minify: true,
     },
+    server: {
+      port: 3069,
+    },
   };
 });
